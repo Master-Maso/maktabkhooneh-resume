@@ -1,0 +1,13 @@
+.pageDown {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -40px;
+    transform: translateY(-45px);
+
+}
+
+#iconImage > img{
+    max-width: 34px;
+}

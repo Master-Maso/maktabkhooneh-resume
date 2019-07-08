@@ -1,0 +1,15 @@
+.paragraphs {
+    text-align: left;
+    margin: 20px;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 3rem;
+}
+.second {
+    background-color: #84aff5;
+    color: white;
+    /*justify-content: flex-start;*/
+    /*align-items: flex-start;*/
+}
